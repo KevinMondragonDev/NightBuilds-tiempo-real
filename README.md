@@ -2,7 +2,7 @@
 
 > Compras procesadas casi en tiempo real: flujo de eventos, ventanas de tiempo, detección de anomalías y un tablero en D3.js que se actualiza solo.
 
-**Estado:** 🚧 sin empezar · **Tipo:** Procesamiento casi en tiempo real · **Módulo del programa:** 07 · Capstone, reto 5
+**Estado:** 🚧 sin empezar · **Tipo:** Procesamiento casi en tiempo real · **Módulo del programa:** 08 · Capstone, reto 5
 
 ## La problemática
 
