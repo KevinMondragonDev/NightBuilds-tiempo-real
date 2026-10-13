@@ -1,6 +1,6 @@
 # ⚡ Reto 5 — Casi tiempo real
 
-**Repositorio:** `sideproject-tiempo-real` · **Nivel:** avanzado · **Entorno:** Redis Streams o Kinesis en Floci, S3 y PostgreSQL · **Método y evaluación:** [`README.md`](docs/METODO.md)
+**Repositorio:** `NightBuilds-tiempo-real` · **Nivel:** avanzado · **Entorno:** Redis Streams o Kinesis en Floci, S3 y PostgreSQL · **Método y evaluación:** [`README.md`](docs/METODO.md)
 
 ## El caso
 
